@@ -10,5 +10,5 @@
 *.gitattributes text
 .gitignore text
 *.md text
-*.html linguist-language=Python
+* linguist-language=Python
 *.ipynb linguist-language=Python
